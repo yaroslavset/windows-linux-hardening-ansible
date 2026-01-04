@@ -1,1 +1,1 @@
-# windows-linux-hardening-ansible
+# Windows and Linux hardening Ansible project.
